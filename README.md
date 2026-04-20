@@ -27,5 +27,5 @@ This is an Intermediate-level web application developed as part of my **Advanced
 * `index.html` - Contains the UI structure and the CSS styling.
 * `script` (Inside HTML) - Contains the logic for grade calculation and DOM manipulation.
 
-**Developed by:** P.Sunitha Sahaya Serin
+**Developed by:** K.Kavinishanth
 **Internship Track:** Advanced Industrial Projects
